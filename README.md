@@ -1,56 +1,35 @@
-<h1 align="center">Hey, I'm <span style="color:#b86bff;">Achira</span> 👋</h1>
-<h3 align="center">Software Engineer | Systems Developer | 7 Years of Experience</h3>
+<h1 align="center">Hey, I'm <span style="color:#b86bff;">Achira</span></h1>
+<h3 align="center">Software Engineer&nbsp;|&nbsp;Systems Developer&nbsp;|&nbsp;7 Years of Experience</h3>
 
 <p align="center">
-  <img src="https://komarev.com" alt="Profile View Counter" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
+  <img src="https://komarev.com/ghpvc/?username=p-dennygamingyt&label=Profile%20Views&color=6f00ff&style=flat" alt="Profile View Counter" style="border-radius:24px;"/>
 </p>
 
 ---
 
-### ⚡ About Me 
+### About Me 
 
-- 🚀 **Currently Focusing:** Architecting low-level software & high-performance systems engineering.
-- 🧠 **Passionate About:** Kernel-level development, Hardware virtualization (VT-x/AMD-V), and OS internals.
-- 📚 **Learning Path:** Deep diving into Windows Internals (EPROCESS/KTHREAD), Advanced Reverse Engineering, and Strategic Business Management.
-- 💬 **Ask Me Anything:** Driver development (WDM/WDF), System Architecture, or modern Web Technologies.
-- 🛡️ **Research:** Actively experimenting with 0-day exploits, memory vulnerabilities, and kernel-mode modifications.
+- Currently working on **low-level software & systems engineering**  
+- Passionate about **kernel development, virtualization, and system internals**  
+- Expanding knowledge in **Windows internals, reverse engineering, and business management**  
+- Ask me about **driver development, system architecture, or web technologies**  
+- Always experimenting with **new exploits, vulnerabilities, and internal modifications**
 
 ---
 
-### 🛠️ Tech Stack & Toolbox
-
+### Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,bash,php,vscode,visualstudio,windows&theme=dark" />
 </p>
 
 ---
 
-### 📊 GitHub Stats & Activity
+### Contact Me
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app" />
-  <img height="180em" src="https://github-readme-stats.vercel.app" />
-</p>
-
----
-
-### 🤝 Contact & Connect
-
-<p align="center">
-  <a href="https://discord.com">
-    <img src="https://img.shields.io" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io" />
-  </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io" />
-  </a>
+  <a href="https://discord.com/users/1214355385457188926">
+  <img alt="Discord"
+         src="https://img.shields.io/badge/Discord-6f00ff?style=flat&logo=discord&logoColor=white" />
 </p>
     
 ---
